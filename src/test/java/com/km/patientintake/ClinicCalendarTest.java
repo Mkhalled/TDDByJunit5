@@ -11,6 +11,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class ClinicCalendarTest {
 
+
     private ClinicCalendar clinicCalendar;
 
     @BeforeEach
